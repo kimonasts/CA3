@@ -1,0 +1,23 @@
+{
+
+	"location": "Exeter",
+	"update_frequency": 1800,
+
+	"API Keys": {
+		"weather": "d1d544682fc05441070936955c8e27b3",
+		"news": "b8dfd284ef734eae9fb0f07accf151f8"
+	},
+	"filepaths": {
+		"alarms": "./JSON Files/Alarms.json",
+		"News_England": "./JSON Files/news_england.json",
+		"COVID19_notifications": "./JSON Files/COVID19_notifications.json",
+		"Weather_notifications": "./JSON Files/Weather_notifications.json",
+		"Merged_notifications": "./JSON Files/Merged_notifications.json",
+		"API_state": "./JSON Files/API_state.json",
+		"Current date": "./JSON Files/Current_date.json",
+
+		"logfile": "./sys.log",
+
+		"page_image": "./Alarm clock.jpg"
+	}
+}
